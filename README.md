@@ -6,10 +6,15 @@ Este projeto é uma aplicação web desenvolvida como parte do meu aprendizado e
 ⚙️ Funcionalidades
 
 ✅ Página inicial com formulário para login e registro de usuários.
+
 ✅ Autenticação de usuários via Firebase Authentication.
+
 ✅ Proteção de rotas: apenas usuários autenticados podem acessar a tela de gerenciamento de tarefas (Admin).
 ✅ Cadastro, edição e exclusão (conclusão) de tarefas em tempo real.
+
+
 ✅ As tarefas aparecem apenas para o usuário logado e são removidas ao serem concluídas.
+
 ✅ Layout básico responsivo, garantindo boa visualização em diferentes tamanhos de tela.
 
 🛠️ Tecnologias Utilizadas

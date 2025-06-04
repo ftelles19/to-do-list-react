@@ -1,6 +1,7 @@
 📌 Lista de Tarefas (React + Firebase)
 
 💻 Descrição
+
 Este projeto é uma aplicação web desenvolvida como parte do meu aprendizado em React. A aplicação permite que o usuário gerencie suas tarefas de forma simples e intuitiva, incluindo autenticação e armazenamento em tempo real utilizando o Firebase.
 
 ⚙️ Funcionalidades

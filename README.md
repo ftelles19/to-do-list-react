@@ -10,8 +10,8 @@ Este projeto é uma aplicação web desenvolvida como parte do meu aprendizado e
 ✅ Autenticação de usuários via Firebase Authentication.
 
 ✅ Proteção de rotas: apenas usuários autenticados podem acessar a tela de gerenciamento de tarefas (Admin).
-✅ Cadastro, edição e exclusão (conclusão) de tarefas em tempo real.
 
+✅ Cadastro, edição e exclusão (conclusão) de tarefas em tempo real.
 
 ✅ As tarefas aparecem apenas para o usuário logado e são removidas ao serem concluídas.
 
